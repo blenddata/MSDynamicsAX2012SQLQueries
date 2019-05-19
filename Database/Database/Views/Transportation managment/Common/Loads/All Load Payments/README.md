@@ -4,7 +4,7 @@
 
 All journals related to loads
 
-Step 1: Load line date
+Step 1: Load line data
 
 		LoadVolume: [done]
 
