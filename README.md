@@ -9,5 +9,7 @@ BTC: 1Monk3syTNVkuqMGsYEFY6tSEtMqSsAT8z
 
 ETH: 0x44e9c34b0320ca4f65bb20fc3f1c4efd57754bdf
 
+USDT: 1CX68wUU7ywHwGGP5CmSEsATnRn4tJTPCf
+
 # Save Your Time
 
