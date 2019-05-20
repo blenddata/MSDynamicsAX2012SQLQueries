@@ -1,9 +1,10 @@
-﻿# Microsoft-Dynamics-AX-2012-SQL-Queries
-# Procurement and sourcing
-# Purchase orders
+﻿### Microsoft Dynamics AX 2012 SQL Server Queries
+ 
+**Procurement and sourcing**
 
-Sum of all items qty in purchase order receipts.
+**Purchase orders**
 
-Step 1: Receipt line data: 
+*Sum of all items qty in purchase order receipts.*
 
-		Aggregate qty by item: [done]
+* Step 1: Receipt line data: 
+	* Aggregate qty by item: `<Done>`
