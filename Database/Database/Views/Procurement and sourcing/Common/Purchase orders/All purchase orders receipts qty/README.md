@@ -7,4 +7,4 @@
 *Sum of all items qty in purchase order receipts.*
 
 * Step 1: Receipt line data: 
-	* Aggregate qty by item: `<Done>`
+	* Aggregate qty by item: <Done>
