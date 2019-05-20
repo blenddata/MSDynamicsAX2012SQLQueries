@@ -1,11 +1,12 @@
-﻿# Microsoft-Dynamics-AX-2012-SQL-Queries
-# Cash and bank managment
-# Bank accounts
+﻿### Microsoft Dynamics AX 2012 SQL Server Queries
+**Cash and bank managment**
 
-Returns all reconciled and ueconciled transactions
+**Bank accounts**
 
-Step 1: Financial dimensions
-		Cost Center: [done]
+*All reconciled and ueconciled transactions*
+
+* Step 1: Financial dimensions
+	- [x] Cost Center: `done`
 
 
 

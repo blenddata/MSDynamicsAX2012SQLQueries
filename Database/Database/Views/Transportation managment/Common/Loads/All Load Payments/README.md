@@ -1,21 +1,18 @@
-﻿# Microsoft-Dynamics-AX-2012-SQL-Queries
-# Transportation managment
-# Loads
+﻿### Microsoft Dynamics AX 2012 SQL Server Queries
+**Transportation managment**
 
-All journals related to loads
+**Loads**
 
-Step 1: Load line data
+*All journals related to loads*
 
-		LoadVolume: [done]
-
-		OrderNumbers: [done]
-
-		Warehouses: [done]
+* Step 1: Load line data
+	- [x] LoadVolume: `done`
+	- [x] OrderNumbers: `done`
+	- [x] Warehouses: `done`
 
 
-Step 2: Rate
-
-		Fix Rate: [done]
+* Step 2: Rate
+	- [x] Fix Rate: `done`
 
 
 

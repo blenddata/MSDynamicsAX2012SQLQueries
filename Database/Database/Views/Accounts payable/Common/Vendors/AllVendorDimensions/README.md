@@ -1,4 +1,4 @@
-﻿### Microsoft-Dynamics-AX-2012-SQL-Queries
+﻿### Microsoft Dynamics AX 2012 SQL Server Queries
 **Accounts payable**
 
 **Vendors**
