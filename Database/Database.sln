@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{43FEFDD6-2ED0-4B14-B7BB-8B858104C9EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Database\Database.csproj", "{43FEFDD6-2ED0-4B14-B7BB-8B858104C9EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{352567AD-EA11-47D3-BBA0-BAF52AF5A725}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
