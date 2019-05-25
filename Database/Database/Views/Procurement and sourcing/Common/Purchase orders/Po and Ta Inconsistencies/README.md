@@ -15,5 +15,5 @@
 * Step 3: Join Trade agreement price and Items : 
 	- [x] Every item has 3 prices including purchase price, site price, base price (ACCOUNTINGDATE range). : `Done`
 
-* Step 3: Purchase order : 
+* Step 4: Purchase order : 
 	- [x] Compare each purchase line price with site or base price (must be equal) : `Done`
